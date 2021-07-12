@@ -1,0 +1,9 @@
+URL=https://todomvc.com/examples/vue/
+PAGE_LOAD_TIMEOUT=10;
+IMPLICIT_WAIT= 20;
+TASK_LIST= Task1,Task2,Task3
+TASK_LIST1= Task2,Task3
+TASK_LIST2= Task3
+PAGE_TITLE=Vue.js
+BROWSER_LIB_PATH=/Applications/Google Chrome.app/Contents/MacOS/Google chrome
+BROWSER=webdriver.chrome.driver
